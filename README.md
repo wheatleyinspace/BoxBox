@@ -46,7 +46,7 @@ Packages a clean source code zip archive (excluding `node_modules`, scratch file
 ## Project Structure
 
 - `src/renderer/` — Application frontend (Vue 3 components, styles, game assets, views).
-- `src/renderer/locales/` — Localization dictionaries (`en.json`, `ru.json`).
+- `src/renderer/locales/` — Localization dictionaries (`en.json`, `es.json`).
 - `src/shared/` — Shared TypeScript types and data schemas.
 - `.vite/build/` — Electron main process (`main.js`, `preload.js`) and native Steamworks binaries.
 - `.vite/renderer/` — Compiled production renderer bundle.
