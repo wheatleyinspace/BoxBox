@@ -1,0 +1,51 @@
+{
+  "modules": [
+    {
+      "kind": "local",
+      "key": "favorites"
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.DRAWING",
+      "items": [
+        24,
+        45,
+        33,
+        7,
+        43,
+        54,
+        39,
+        19
+      ]
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.ONE_PLAYER",
+      "items": [
+        46,
+        23,
+        20,
+        8,
+        44,
+        48,
+        25,
+        3
+      ]
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.STREAMING",
+      "items": [
+        38,
+        12,
+        25,
+        37,
+        46
+      ]
+    },
+    {
+      "kind": "local",
+      "key": "recentlyPlayed"
+    }
+  ]
+}

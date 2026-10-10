@@ -1,0 +1,168 @@
+{
+  "ALT": {
+    "LOGO": "Logo Jackbox Megapicker"
+  },
+  "DETAIL": {
+    "ADD_TO_FAVORITES": "Ajouter aux favoris",
+    "COMMUNITY_HUB": "Communauté",
+    "DURATION": "{{minutes}} minutes",
+    "GET_SUPPORT": "Obtenir de l'aide",
+    "HOW_TO_LAUNCH": "Comment voulez-vous lancer {{gameTitle}}?",
+    "PLAYERS": "{{minPlayers}} à {{maxPlayers}} joueurs",
+    "PURCHASE_GAME": "Acheter {{gameTitle}}",
+    "REMOVE_FROM_FAVORITES": "Retirer des favoris",
+    "LAUNCHING": "Lancement"
+  },
+  "FILTERS": {
+    "ADVANCED": "Filtres avancés",
+    "CLEAR": "Réinitialiser",
+    "CLEAR_ALL": "Supprimer tous les filtres",
+    "DURATION": {
+      "LABEL": "Durée de jeu",
+      "MINUTES": "{{minMinutes}} à {{maxMinutes}} minutes"
+    },
+    "FEATURES": {
+      "AUDIENCE": "Public",
+      "BLIND": "Accessible aux non-voyants",
+      "DROP_IN_DROP_OUT": "Accès libre",
+      "FAMILY_FRIENDLY": "Familial",
+      "HAS_MERCH": "Produits personnalisés",
+      "LABEL": "Fonctionnalités du jeu",
+      "MATURE": "Contenu pour adultes",
+      "MODERATION": "Modération",
+      "PASSWORDS": "Mots de passe des salons",
+      "REDUCED_MOTION": "Mouvements réduits",
+      "SHAREABLES": "Contenu partageable",
+      "SINGLE_PLAYER": "Jeu en solo",
+      "SUBTITLES": "Sous-titres",
+      "TEAM_WORK": "Jeu en équipe",
+      "US_CENTRIC": "Contenu spécifique pour la France"
+    },
+    "IS_OWNED": {
+      "ALL": "Tous\nles jeux",
+      "OWNED": "Jeux en votr\npossession"
+    },
+    "LANGUAGE": {
+      "DE": "Deutsch",
+      "EN": "English",
+      "ES": "Castellano",
+      "ES_XL": "Español",
+      "FR": "Français",
+      "IT": "Italiano",
+      "RU": "Русский",
+      "LABEL": "Langue",
+      "PT_BR": "Português brasileiro"
+    },
+    "PERSONAS": {
+      "COUPLES": "Couples",
+      "COWORKERS": "Collègues",
+      "EVENTS": "Événements",
+      "FAMILIES": "Familles",
+      "FRIENDS": "Amis",
+      "KIDS": "Enfants",
+      "LABEL": "Type de groupe",
+      "ROOMMATES": "Colocataires",
+      "STREAMERS": "Streamers",
+      "STUDENTS": "Élèves"
+    },
+    "PLAYER_COUNT": {
+      "ANY": "Tous",
+      "COUNT_one": "Solo",
+      "COUNT_other": "{{count}} joueurs",
+      "LABEL": "Nombre de joueurs"
+    },
+    "PRODUCT": {
+      "LABEL": "Pack"
+    },
+    "QUERY": {
+      "LABEL": "Recherche de jeux"
+    },
+    "SORT": {
+      "BY": "Trier par",
+      "DEFAULT": "Défaut"
+    },
+    "TYPE": {
+      "ACTION": "Action",
+      "DECEPTION": "Supercherie",
+      "DRAWING": "Dessin",
+      "LABEL": "Types de jeux",
+      "PUZZLE": "Casse-tête",
+      "ROLE_PLAY": "Jeu de rôle",
+      "SOUND": "Sonore",
+      "SPEAKING": "Expression orale",
+      "STRATEGY": "Stratégie",
+      "TRIVIA": "Trivia",
+      "WRITING": "Rédaction"
+    }
+  },
+  "FORM": {
+    "EMAIL": "E-mail",
+    "ENTER_EMAIL": "Saisissez votre adresse e-mail.",
+    "SUBMIT": "Envoyer"
+  },
+  "HOME": {
+    "FAVORITES": {
+      "EMPTY": "Ajoutez un jeu en favori pour le voir ici",
+      "TITLE": "Favoris"
+    },
+    "RECENTLY_PLAYED": {
+      "EMPTY": "Vous n'avez pas encore lancé de jeu avec le Megapicker.",
+      "TITLE": "Joué récemment"
+    }
+  },
+  "MENU": {
+    "ACCOUNT": "Compte",
+    "CONTINUE": "Continuer",
+    "CANCEL": "Bref",
+    "GAME_HISTORY": "Historique de jeu",
+    "HIDE_MATURE": "Cacher contenu pour adultes",
+    "HOME": "Accueil",
+    "LIBRARY": "Bibliothèque",
+    "RESET": "Réinitialiser les données locales",
+    "SETTINGS": "Paramètres",
+    "SIGN_IN": "Se connecter",
+    "SIGN_OUT": "Se déconnecter",
+    "VIEW": "Afficher"
+  },
+  "NAV": {
+    "DRAG_TARGET": "Faites glisser ici pour ajouter aux favoris.",
+    "FAVORITES": "Favoris",
+    "FEEDBACK": "Envoyer un retour",
+    "HISTORY": "Historique de jeu",
+    "HOME": "Accueil",
+    "LIBRARY": "Bibliothèque"
+  },
+  "REDEMPTION": {
+    "ALREADY_REDEEMED": "Il semble que vous ayez déjà obtenu cette offre.",
+    "ERROR_TITLE": "Une erreur est survenue.",
+    "GENERAL_ERROR": "Une erreur est survenue en tentant de récupérer cette offre.",
+    "INVALID_EMAIL": "L'adresse e-mail saisie n'est pas valide.",
+    "REDEEM_COPY": "Obtenez votre copie gratuite de {{gameTitle}}",
+    "SUCCESS": "Vous recevrez un e-mail contenant votre code dans un délai d'un jour ouvrable.",
+    "THANK_YOU": "Merci d'avoir récupéré cette offre!"
+  },
+  "SPLASH": {
+    "LOADING": "Chargement"
+  },
+  "STATUS": {
+    "OFFLINE_MESSAGE": "On dirait que vous êtes hors ligne. Certaines fonctionnalités peuvent être limitées, mais vous pouvez toujours jouer aux jeux installés !",
+    "OFFLINE_TITLE": "Vous semblez être hors ligne",
+    "RESET": "Réinitialiser vos données locales effacera vos paramètres, vos favoris et les jeux auxquels vous avez récemment joué. Cette action est irréversible."
+  },
+  "TILE": {
+    "AVAILABLE_DATE": "Disponible le {{date}}",
+    "AVAILABLE_SOON": "Bientôt disponible",
+    "CLAIM": "Obtenir",
+    "FREE": "Gratuit",
+    "HOURS": "Heures",
+    "INSTALL": "Installer",
+    "LAUNCH": "Lancer",
+    "MINUTES": "Minutes",
+    "ON_SALE": "En promo",
+    "PLAY_IT": "Jouer",
+    "PLAY_IT_IN": "Disponible dans",
+    "PURCHASE": "Acheter",
+    "SECONDS": "Secondes",
+    "WISHLIST": "Ajouter à la liste de souhaits"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "ALT": {
+    "LOGO": "The Jackbox Megapicker Logo"
+  },
+  "DETAIL": {
+    "ADD_TO_FAVORITES": "Add Favorite",
+    "COMMUNITY_HUB": "Community Hub",
+    "DURATION": "{{minutes}} Minutes",
+    "GET_SUPPORT": "Get Support",
+    "HOW_TO_LAUNCH": "How would you like to launch {{gameTitle}}?",
+    "PLAYERS": "{{minPlayers}}-{{maxPlayers}} Players",
+    "PURCHASE_GAME": "Purchase {{gameTitle}}",
+    "REMOVE_FROM_FAVORITES": "Remove Favorite",
+    "LAUNCHING": "Launching"
+  },
+  "FEED": {
+    "MORE_DETAILS": "More Details"
+  },
+  "FILTERS": {
+    "ADVANCED": "Advanced Filters",
+    "CLEAR": "Clear",
+    "CLEAR_ALL": "Clear All Filters",
+    "DURATION": {
+      "LABEL": "Game Duration",
+      "MINUTES": "{{minMinutes}}-{{maxMinutes}} Minutes"
+    },
+    "FEATURES": {
+      "AUDIENCE": "Audience",
+      "BLIND": "Blind Accessible",
+      "DROP_IN_DROP_OUT": "Come and Go",
+      "FAMILY_FRIENDLY": "Family Friendly",
+      "HAS_MERCH": "Custom Merch",
+      "LABEL": "Game Features",
+      "MATURE": "Mature Content",
+      "MODERATION": "Moderation",
+      "PASSWORDS": "Lobby Passwords",
+      "REDUCED_MOTION": "Reduced Motion",
+      "SHAREABLES": "Shareables",
+      "SINGLE_PLAYER": "Solo Play",
+      "SUBTITLES": "Subtitles",
+      "TEAM_WORK": "Team Play",
+      "US_CENTRIC": "US Centric Filter"
+    },
+    "IS_OWNED": {
+      "ALL": "All\nGames",
+      "OWNED": "Owned\nGames"
+    },
+    "LANGUAGE": {
+      "DE": "Deutsch",
+      "EN": "English",
+      "ES": "Castellano",
+      "ES_XL": "Español",
+      "FR": "Français",
+      "IT": "Italiano",
+      "RU": "Русский",
+      "LABEL": "Language",
+      "PT_BR": "Português brasileiro"
+    },
+    "PERSONAS": {
+      "COUPLES": "Couples",
+      "COWORKERS": "Coworkers",
+      "EVENTS": "Events",
+      "FAMILIES": "Families",
+      "FRIENDS": "Friends",
+      "KIDS": "Kids",
+      "LABEL": "Group Types",
+      "ROOMMATES": "Roommates",
+      "STREAMERS": "Streamers",
+      "STUDENTS": "Students"
+    },
+    "PLAYER_COUNT": {
+      "ANY": "Any",
+      "COUNT_one": "Solo",
+      "COUNT_other": "{{count}} Players",
+      "LABEL": "Player Count"
+    },
+    "PRODUCT": {
+      "LABEL": "Pack"
+    },
+    "QUERY": {
+      "LABEL": "Search for games"
+    },
+    "SORT": {
+      "BY": "Sort By",
+      "DEFAULT": "Default"
+    },
+    "TYPE": {
+      "ACTION": "Action",
+      "DECEPTION": "Deception",
+      "DRAWING": "Drawing",
+      "LABEL": "Game Types",
+      "PUZZLE": "Puzzle",
+      "ROLE_PLAY": "Role Play",
+      "SOUND": "Sound",
+      "SPEAKING": "Speaking",
+      "STRATEGY": "Strategy",
+      "TRIVIA": "Trivia",
+      "WRITING": "Writing"
+    }
+  },
+  "FORM": {
+    "EMAIL": "Email",
+    "ENTER_EMAIL": "Enter your email",
+    "SUBMIT": "Submit"
+  },
+  "HOME": {
+    "FAVORITES": {
+      "EMPTY": "Favorite a game to see it here",
+      "TITLE": "Favorites"
+    },
+    "RECENTLY_PLAYED": {
+      "EMPTY": "You've not launched a single game with Megapicker yet.",
+      "TITLE": "Recently Played"
+    }
+  },
+  "MENU": {
+    "ACCOUNT": "Account",
+    "CONTINUE": "Continue",
+    "CANCEL": "Nevermind",
+    "GAME_HISTORY": "Game History",
+    "HIDE_MATURE": "Hide Mature Content",
+    "HOME": "Home",
+    "LIBRARY": "Library",
+    "RESET": "Reset Local Data",
+    "SETTINGS": "Settings",
+    "SIGN_IN": "Sign In",
+    "SIGN_OUT": "Sign Out",
+    "VIEW": "View"
+  },
+  "NAV": {
+    "DRAG_TARGET": "Drag here to add favorite",
+    "FAVORITES": "Favorites",
+    "FEEDBACK": "Send Feedback",
+    "HISTORY": "Game History",
+    "HOME": "Home",
+    "LIBRARY": "Library"
+  },
+  "REDEMPTION": {
+    "ALREADY_REDEEMED": "Looks like you already redeemed this offer",
+    "ERROR_TITLE": "There was an error",
+    "GENERAL_ERROR": "We encountered an error redeeming this offer",
+    "INVALID_EMAIL": "The email entered was invalid",
+    "REDEEM_COPY": "Redeem your free copy of {{gameTitle}}",
+    "SUCCESS": "Look for an email with your code within 1 business day",
+    "THANK_YOU": "Thank you for redeeming!"
+  },
+  "SPLASH": {
+    "LOADING": "LOADING"
+  },
+  "STATUS": {
+    "OFFLINE_MESSAGE": "Looks like you may be offline. Some functionality may be limited but you can still enjoy any games you have installed.",
+    "OFFLINE_TITLE": "You may be offline",
+    "RESET": "Resetting your local data will clear your settings, favorites and recently played games. This cannot be undone."
+  },
+  "TILE": {
+    "AVAILABLE_DATE": "Available {{date}}",
+    "AVAILABLE_SOON": "Available Soon",
+    "CLAIM": "Claim",
+    "FREE": "Free",
+    "HOURS": "Hours",
+    "INSTALL": "Install",
+    "LAUNCH": "Launch",
+    "MINUTES": "Minutes",
+    "ON_SALE": "On Sale",
+    "PLAY_IT": "Play It",
+    "PLAY_IT_IN": "Play It In",
+    "PURCHASE": "Purchase",
+    "SECONDS": "Seconds",
+    "WISHLIST": "Add to Wishlist"
+  }
+}

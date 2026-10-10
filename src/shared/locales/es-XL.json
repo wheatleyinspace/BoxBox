@@ -1,0 +1,168 @@
+{
+  "ALT": {
+    "LOGO": "Logo de The Jackbox Megapicker"
+  },
+  "DETAIL": {
+    "ADD_TO_FAVORITES": "Añadir a favoritos",
+    "COMMUNITY_HUB": "Encuentro de la comunidad",
+    "DURATION": "{{minutes}} minutos",
+    "GET_SUPPORT": "Recibir soporte",
+    "HOW_TO_LAUNCH": "¿Cómo quieres ejecutar {{gameTitle}}?",
+    "PLAYERS": "{{minPlayers}}-{{maxPlayers}} jugadores",
+    "PURCHASE_GAME": "Comprar {{gameTitle}}",
+    "REMOVE_FROM_FAVORITES": "Quitar de favoritos",
+    "LAUNCHING": "Iniciando"
+  },
+  "FILTERS": {
+    "ADVANCED": "Filtros avanzados",
+    "CLEAR": "Eliminar",
+    "CLEAR_ALL": "Eliminar todos los filtros",
+    "DURATION": {
+      "LABEL": "Duración de la partida",
+      "MINUTES": "{{minMinutes}}-{{maxMinutes}} minutos"
+    },
+    "FEATURES": {
+      "AUDIENCE": "Público",
+      "BLIND": "Accesibilidad para personas ciegas",
+      "DROP_IN_DROP_OUT": "Ir y venir",
+      "FAMILY_FRIENDLY": "Para toda la familia",
+      "HAS_MERCH": "Productos personalizados",
+      "LABEL": "Características de la partida",
+      "MATURE": "Contenido para adultos",
+      "MODERATION": "Moderación",
+      "PASSWORDS": "Contraseñas de la sala de espera",
+      "REDUCED_MOTION": "Movimiento limitado",
+      "SHAREABLES": "Contenido compartible",
+      "SINGLE_PLAYER": "Partida en solitario",
+      "SUBTITLES": "Subtítulos",
+      "TEAM_WORK": "Partida en equipo",
+      "US_CENTRIC": "Contenido para Hispanoamérica"
+    },
+    "IS_OWNED": {
+      "ALL": "Todos los\njuegos",
+      "OWNED": "Juegos\nen propiedad"
+    },
+    "LANGUAGE": {
+      "DE": "Deutsch",
+      "EN": "English",
+      "ES": "Castellano",
+      "ES_XL": "Español",
+      "FR": "Français",
+      "IT": "Italiano",
+      "RU": "Русский",
+      "LABEL": "Idioma",
+      "PT_BR": "Português brasileiro"
+    },
+    "PERSONAS": {
+      "COUPLES": "Parejas",
+      "COWORKERS": "Compañeros de trabajo",
+      "EVENTS": "Eventos",
+      "FAMILIES": "Familias",
+      "FRIENDS": "Amistades",
+      "KIDS": "Niños",
+      "LABEL": "Tipos de grupo",
+      "ROOMMATES": "Compañeros de departamento",
+      "STREAMERS": "Streamers",
+      "STUDENTS": "Estudiantes"
+    },
+    "PLAYER_COUNT": {
+      "ANY": "Cualquiera",
+      "COUNT_one": "Solitario",
+      "COUNT_other": "{{count}} jugadores",
+      "LABEL": "Cantidad de jugadores"
+    },
+    "PRODUCT": {
+      "LABEL": "Paquete"
+    },
+    "QUERY": {
+      "LABEL": "Buscar juegos"
+    },
+    "SORT": {
+      "BY": "Ordenar por",
+      "DEFAULT": "Predeterminado"
+    },
+    "TYPE": {
+      "ACTION": "Acción",
+      "DECEPTION": "Engaño",
+      "DRAWING": "Dibujo",
+      "LABEL": "Tipos de juego",
+      "PUZZLE": "Rompecabezas",
+      "ROLE_PLAY": "Juego de roles",
+      "SOUND": "Sonido",
+      "SPEAKING": "Comunicación",
+      "STRATEGY": "Estrategia",
+      "TRIVIA": "Preguntas",
+      "WRITING": "Escritura"
+    }
+  },
+  "FORM": {
+    "EMAIL": "Correo electrónico",
+    "ENTER_EMAIL": "Introduce tu correo electrónico",
+    "SUBMIT": "Enviar"
+  },
+  "HOME": {
+    "FAVORITES": {
+      "EMPTY": "Añade un juego a favoritos para verlo aquí",
+      "TITLE": "Favoritos"
+    },
+    "RECENTLY_PLAYED": {
+      "EMPTY": "Aún no ejecutaste ningún juego con&nbsp;<i>Megapicker</i>.",
+      "TITLE": "Jugados recientemente"
+    }
+  },
+  "MENU": {
+    "ACCOUNT": "Cuenta",
+    "CONTINUE": "Continuar",
+    "CANCEL": "Cancelar",
+    "GAME_HISTORY": "Historial de juegos",
+    "HIDE_MATURE": "Ocultar contenido para adultos",
+    "HOME": "Inicio",
+    "LIBRARY": "Biblioteca",
+    "RESET": "Restablecer datos locales",
+    "SETTINGS": "Ajustes",
+    "SIGN_IN": "Iniciar sesión",
+    "SIGN_OUT": "Cerrar sesión",
+    "VIEW": "Ver"
+  },
+  "NAV": {
+    "DRAG_TARGET": "Arrastra hasta aquí para añadir a favoritos",
+    "FAVORITES": "Favoritos",
+    "FEEDBACK": "Enviar comentarios",
+    "HISTORY": "Historial de juegos",
+    "HOME": "Inicio",
+    "LIBRARY": "Biblioteca"
+  },
+  "REDEMPTION": {
+    "ALREADY_REDEEMED": "Parece que ya canjeaste esta oferta",
+    "ERROR_TITLE": "Ocurrió un error",
+    "GENERAL_ERROR": "Ocurrió un error al canjear esta oferta",
+    "INVALID_EMAIL": "El correo electrónico no es válido",
+    "REDEEM_COPY": "Consigue tu copia gratis de {{gameTitle}} ya mismo",
+    "SUCCESS": "Recibirás un correo electrónico con tu código dentro del siguiente día hábil",
+    "THANK_YOU": "¡Gracias por canjearla!"
+  },
+  "SPLASH": {
+    "LOADING": "Cargando"
+  },
+  "STATUS": {
+    "OFFLINE_MESSAGE": "Parece que no tienes conexión. Algunas funciones podrían estar limitadas, ¡pero puedes seguir disfrutando de los juegos que ya tengas instalados!",
+    "OFFLINE_TITLE": "Puede que no tengas conexión",
+    "RESET": "Restablecer tus datos locales borrará tus ajustes, tus favoritos y los juegos jugados recientemente. Esta acción no se puede deshacer."
+  },
+  "TILE": {
+    "AVAILABLE_DATE": "Disponible el {{date}}",
+    "AVAILABLE_SOON": "Disponible próximamente",
+    "CLAIM": "Obtener",
+    "FREE": "Gratis",
+    "HOURS": "Horas",
+    "INSTALL": "Instalar",
+    "LAUNCH": "Ejecutar",
+    "MINUTES": "Minutos",
+    "ON_SALE": "Oferta",
+    "PLAY_IT": "Juégalo",
+    "PLAY_IT_IN": "Juégalo en",
+    "PURCHASE": "Comprar",
+    "SECONDS": "Segundos",
+    "WISHLIST": "Añadir a la lista de deseados"
+  }
+}
