@@ -1,1 +1,0 @@
-"use strict";const o=require("electron");o.ipcRenderer.on("messagePort",(e,s)=>{if(s){window.postMessage("messagePort","*",e.ports);return}window.onload=()=>{window.postMessage("messagePort","*",e.ports)}});
